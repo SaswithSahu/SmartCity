@@ -1,0 +1,37 @@
+.user-dashboard-container{
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://imageio.forbes.com/specials-images/imageserve/5fd39709b51ac9cee77a2e3e/5-star-Review/960x0.jpg?height=474&width=711&fit=bounds");
+    background-size: cover;
+    height: 100vh;
+}
+
+.user-dashboard-content{
+    font-size: 46px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 800;
+    margin-left: 10%;
+
+}
+.register-{
+    align-self: center;
+    padding: 15px;
+    background-color: transparent;
+    border-radius: 19px;
+    border: 0px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    -ms-border-radius: 19px;
+    -o-border-radius: 19px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    background-color: cadetblue;
+    margin-left: 10%;
+}
+.register-:hover{
+    background-color: green;
+    color: white;
+}
